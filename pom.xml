@@ -12,7 +12,7 @@
 	<scm>
 		<url>https://github.com/primecloud-controller/primecloud-controller</url>
 		<connection>scm:git:https://github.com/primecloud-controller/primecloud-controller.git</connection>
-		<developerConnection>scm:git:git@github.com:yterauchi/primecloud-controller.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/yterauchi/primecloud-controller.git</developerConnection>
 	</scm>
 	<modules>
 		<module>auto-project</module>
