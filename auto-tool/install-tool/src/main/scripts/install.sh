@@ -626,7 +626,7 @@ if [ $? -ne 0 ]; then
 fi
 
 #install OpenStack liblary
-pip install python-cinderclient==1.0.8 python-novaclient==2.15.0 >> $LOG_FILE 2>&1
+pip install testrepository==0.0.20 python-cinderclient==1.0.8 python-novaclient==2.15.0 >> $LOG_FILE 2>&1
 if [ $? -ne 0 ]; then
     echo "Error: python cinderclient/novaclient install failed." >> $LOG_FILE 2>&1
     echo "Error: python cinderclient/novaclient install failed."
