@@ -9,9 +9,9 @@
 		<github.global.server>github</github.global.server>
 	</properties>
 	<scm>
-		<url>https://github.com/primecloud-controller-org/primecloud-controller</url>
-		<connection>scm:git:https://github.com/primecloud-controller-org/primecloud-controller.git</connection>
-		<developerConnection>scm:git:https://github.com/primecloud-controller-org/primecloud-controller.git</developerConnection>
+		<url>https://github.com/yterauchi/primecloud-controller</url>
+		<connection>scm:git:https://github.com/yterauchi/primecloud-controller.git</connection>
+		<developerConnection>scm:git:https://github.com/yterauchi/primecloud-controller.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 	<modules>
